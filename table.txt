@@ -1,0 +1,5 @@
+Name	Age	Company
+Nitesh	26	Ekagga
+Ranjan	25	TCS
+Birjon	25	SAP
+Name	22	IT
